@@ -15,7 +15,7 @@
 
 - 💬 Have Questions? Reach me at **support@hisuby.com**
 
-- ⚡ Fun fact **I do go outside.... if god is giving me enough signs or for 5 mins after my coding session for vitamin D and body health because I don't want to look like the old people with bad posture because i want to live til I'm 130 because life has so much to offer.**
+- ⚡ Fun fact **I do go outside.... <p>if god is giving me enough signs or for 5 mins after my coding session for vitamin D and body health because I don't want to look like the old people with bad posture because i want to live til I'm 130 because life has so much to offer....I hope</p>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

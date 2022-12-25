@@ -3,13 +3,9 @@
 
 - 🔭 I’m working on [my Educational Charity Project](hisuby.com)
 
-- 🌱 I’m currently learning **Interview Skills and Algorithms cause I need a Job 🥵**
-
 - 👯 I’m looking to collab on **anything I can get my hands on or educational based.**
 
-- 🤝 I NEED HELP IMPROVING [MY HISUBY PROJECT! any feedback is AMAZING!](hisuby.com/feedback)
-
-- 👨‍💻 All of my projects are available at [hisuby.com/me](hisuby.com/me)
+- 👨‍💻 Checkout my portfolio! [hisuby.com/me](hisuby.com/me)
 
 - 📝 I regularly write articles on [hisuby.com/blog](hisuby.com/blog)
 

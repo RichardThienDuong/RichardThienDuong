@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="picturetopeople.org-b48f92177aa6152c1c91908e5a44c913c900faee8fc1056fee.png" /></a>
+    <img src="picturetopeople.org-b48f92177aa6152c1c91908e5a44c913c900faee8fc1056fee.png" width="50%"/></a>
 </p>
 
 <p align="center">

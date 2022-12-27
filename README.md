@@ -43,7 +43,8 @@
 
 <h1 align="center">Hi 👋, Welcome to My Hub !</h1>
 <h3 align="center">I'm currently learning consistency and front-end dev work.</h3>
-
+<img align="right" width="50%" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b7611cb4625ce435d1a83dc380045143024ce6a3fb0cc&rid=giphy.gif&ct=s" />
+<p align="left">
 - 🔭 I’m working on [my Educational Charity Project](hisuby.com)
 
 - 👯 I’m looking to collab on **anything I can get my hands on!.**
@@ -53,7 +54,7 @@
 - 📝 I regularly write articles on [hisuby.com/blog](hisuby.com/blog)
 
 - 💬 Have Questions? Reach me at **support@hisuby.com**
-
+</p>
 - ⚡ Fun fact : **I do go outside.... <h6>if god is giving me enough signs or for 5 mins after my coding session for vitamin D and body health because I don't want to look like the old people with bad posture because i want to live til I'm 130 because life has so much to offer....I hope</h6>**
 
 <details> 

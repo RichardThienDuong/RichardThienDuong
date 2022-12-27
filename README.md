@@ -43,7 +43,7 @@
 
 <p>
   
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi 👋, Welcome to my hub!
 
 <div>
 <details>
@@ -220,3 +220,6 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and 
 <!--END_SECTION:activity-->
 
 </details>
+
+<h3> Still Bored ? play this: </h3>
+<a href="javascript:var%20KICKASSVERSION='2.0';var%20s%20=%20document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='//hi.kickassapp.com/kickass.js';void(0);">

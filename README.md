@@ -11,15 +11,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@XxRichardDuongxX"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@XxRichardDuongxX"><img width="32px" alt="Youtube" title="Youtube" src="images/youtube_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/hisuby"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/hisuby"><img width="32px" alt="Twitter" title="Twitter" src="images/twitter_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ePvErp7n64" alt="Discord" title="Hisuby Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/ePvErp7n64" alt="Discord" title="Hisuby Discord Server"><img width="32px" src="images/discord_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/richardthienduong"><img width="32px" alt="Dev.to" title="richardthienduong Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/richardthienduong"><img width="32px" alt="Dev.to" title="richardthienduong Dev.to" src="images/dev_icon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/richardthienduong"><img width="32px" alt="Ko-fi" title="Buy me a tea!" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/richardthienduong"><img width="32px" alt="Ko-fi" title="Buy me a tea!" src="images/ko-fi_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 

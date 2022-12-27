@@ -56,14 +56,6 @@
 
 - ⚡ Fun fact : **I do go outside.... <h6>if god is giving me enough signs or for 5 mins after my coding session for vitamin D and body health because I don't want to look like the old people with bad posture because i want to live til I'm 130 because life has so much to offer....I hope</h6>**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hisuby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hisuby" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/richardthienduong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardthienduong" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hisuby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hisuby" height="30" width="40" /></a>
-<a href="https://discord.gg/hisuby#8989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hisuby#8989" height="30" width="40" /></a>
-</p>
-
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -126,6 +118,14 @@
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+  </p>
+  
+  <h3>🚀 Other Planets I've traveled to</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/richardthienduong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardthienduong" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/hisuby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hisuby" height="30" width="40" /></a>
+    <a href="https://discord.gg/hisuby#8989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hisuby#8989" height="30" width="40" /></a>
   </p>
   
 </details>

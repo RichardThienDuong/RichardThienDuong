@@ -45,7 +45,7 @@
 <p>
 <details>
   <summary>🧑 More about me</summary>
- 
+ <img width="50%" href="ezgif.com-gif-maker.gif" />
 
 - 🔭 I’m currently on a journey to build **great** things
 

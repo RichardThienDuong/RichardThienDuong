@@ -43,7 +43,7 @@
 
 <h1 align="center">Hi 👋, Welcome to My Hub !</h1>
 <h3 align="center">I'm currently learning consistency and front-end dev work.</h3>
-<img align="right" width="50%" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b7611cb4625ce435d1a83dc380045143024ce6a3fb0cc&rid=giphy.gif&ct=s" />
+<img align="right" width="25%" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b7611cb4625ce435d1a83dc380045143024ce6a3fb0cc&rid=giphy.gif&ct=s" />
 <p align="left">
 - 🔭 I’m working on [my Educational Charity Project](hisuby.com)
 

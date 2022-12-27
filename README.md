@@ -11,11 +11,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@XxRichardDuongxX"><img width="32px" alt="Youtube" title="Youtube" src="images/youtube_icon.png"/></a>
+  <a href="https://www.youtube.com/@XxRichardDuongxX"><img width="32px" alt="Youtube" title="Subscribe!" src="images/youtube_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/hisuby"><img width="32px" alt="Twitter" title="Twitter" src="images/twitter_icon.png"/></a>
+  <a href="https://twitter.com/hisuby"><img width="32px" alt="Twitter" title="Follow me!" src="images/twitter_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ePvErp7n64" alt="Discord" title="Hisuby Discord Server"><img width="32px" src="images/discord_icon.png"/></a>
+  <a href="https://discord.gg/ePvErp7n64" alt="Discord" title="Txt me!"><img width="32px" src="images/discord_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/richardthienduong"><img width="32px" alt="Dev.to" title="richardthienduong Dev.to" src="images/dev_icon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;

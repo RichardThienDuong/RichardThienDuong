@@ -43,7 +43,7 @@
 
 <h1 align="center">Hi 👋, Welcome to My Hub !</h1>
 <h3 align="center">I'm currently learning consistency and front-end dev work.</h3>
-<img align="right" width="25%" src="images/ezgif.com-gif-maker.gif" />
+<img align="right" width="15%" src="images/ezgif.com-gif-maker.gif" />
 <p align="left">
 - 🔭 I’m working on [my Educational Charity Project](hisuby.com)
 

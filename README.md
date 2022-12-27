@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hisuby.com/me">
-    <img src="picturetopeople.org-b48f92177aa6152c1c91908e5a44c913c900faee8fc1056fee.png" width="30%"/></a>
+    <img src="images/name_label.png" width="30%"/></a>
 </p>
 
 <p align="center">

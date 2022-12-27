@@ -40,7 +40,7 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
-<h1 align-text="center">Hi 👋, Welcome to my hub!</h1>
+<h1 align="center">Hi 👋, Welcome to my hub!</h1>
 
 <details>
   <summary>🧑 More about me</summary>

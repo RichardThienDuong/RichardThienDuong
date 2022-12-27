@@ -40,6 +40,31 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
+
+<p>
+  
+Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+
+<div>
+<details>
+  <summary>🧑 More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
+
+- 💬 Ask me about **open source, web development, and community management**
+
+- 📫 Reach me out at **contact@miaxu.co**
+
+</details>
+  
+</p>
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 

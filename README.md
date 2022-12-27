@@ -42,7 +42,6 @@
 </p> -->
 <h1>Hi 👋, Welcome to my hub!</h1>
 
-<p>
 <details>
   <summary>🧑 More about me</summary>
   
@@ -61,8 +60,6 @@
 - 📫 Reach me out at **any of my platforms or support@hisuby.com**
 
 </details>
-  
-</p>
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>

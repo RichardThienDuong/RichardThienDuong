@@ -192,7 +192,7 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Richard Thien Duong's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=richardthienduong&show_icons=true&include_all_commits=true&count_private=true&theme=panda&hide_border=true&bg_color=5B6D5B&title_color=F6E6E4&icon_color=A6BB8D&text_color=E2BCB7&mark_color=F68F9E" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Richard Thien Duong's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=richardthienduong&show_icons=true&include_all_commits=true&count_private=true&theme=panda&hide_border=true&bg_color=5B6D5B&title_color=F6E6E4&icon_color=A6BB8D&text_color=E2BCB7" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardthienduong&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=5B6D5B&title_color=F68F9E&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
@@ -216,5 +216,5 @@
 
 </details>
 
-<h3> Still Bored ? play this: </h3>
-<a href="javascript:var%20KICKASSVERSION='2.0';var%20s%20=%20document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='//hi.kickassapp.com/kickass.js';void(0);">kicka$$ app</a>
+<h3> Still Bored & Got 3 Mins ? --> <a href="https://kickassapp.com/"> 👾 </a> </h3>
+

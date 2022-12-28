@@ -59,6 +59,9 @@
 
 </details>
 
+  <a href="https://github.com/RichardThienDuong/RichardThienDuong"><img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
+" alt="custom-icon-badges"></a>
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 

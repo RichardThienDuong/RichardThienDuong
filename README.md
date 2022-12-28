@@ -63,7 +63,7 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
 <p align="left">
-  <a href="https://github.com/RichardThienDuong/RichardThienDuong"><img width="25%" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/RichardThienDuong/RichardThienDuong"><img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
 " alt="custom-icon-badges"></a>
   <a href="https://github.com/DBM-Extended"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DBM-Extended&repo=mods&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
 </p>

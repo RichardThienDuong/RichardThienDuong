@@ -43,7 +43,7 @@
 </p> -->
 <h1 align="center">Hi 👋, Welcome to my hub!</h1>
 
-<details>
+<details open>
   <summary>🧑 More about me</summary>
 
 - 🔭 I’m currently on a journey to build **great** things

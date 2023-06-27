@@ -46,9 +46,9 @@
 <details open>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 I’m currently on a journey to build **backend server through arch linux and computer scraps**
 
-- 🌱 I’m currently learning **More Javascript** 🤓
+- 🌱 I’m currently learning **web scraping and basic server creation** 🤓
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
